@@ -90,7 +90,7 @@ Kotlin is a cross-platform, statically typed, general-purpose programming langua
 ## Resources
 * [Kotlin Official Documentation](https://kotlinlang.org/)
 * [Kotlin Basic Tutorials](https://www.youtube.com/playlist?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2)
-* [The Complete Android 10 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/)
+* [The Complete Android 10 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/) [paid]
 * [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 
 

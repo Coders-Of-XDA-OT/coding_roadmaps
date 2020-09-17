@@ -9,5 +9,5 @@
 -  [Google Android Codelabs](https://codelabs.developers.google.com/)
 -  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
--  [Flutter Examples ](https://github.com/nisrulz/flutter-examples
+-  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
 -  [Pathway to Follow ](https://roadmap.sh/android)
