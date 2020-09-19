@@ -1,4 +1,4 @@
-![Python Image](https://cdn.makeawebsitehub.com/wp-content/uploads/2016/02/python-logo-master.png)
+![Python Image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
 # Python
 ![Python](https://img.shields.io/badge/PYTHON--red.svg)
 
